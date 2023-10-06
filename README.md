@@ -12,6 +12,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-
-* ik raad een n
+* ik raad een p
 * ik raad een  (niet goed)
